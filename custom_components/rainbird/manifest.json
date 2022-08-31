@@ -1,6 +1,6 @@
 {
-  "domain": "rainbird",
-  "name": "Rainbird",
+  "domain": "rainbird1",
+  "name": "Rainbird1",
   "version": "0.1.0",
   "documentation": "https://www.home-assistant.io/integrations/rainbird",
   "config_flow": true,
